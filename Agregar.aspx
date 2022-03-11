@@ -10,9 +10,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Agregar Clientes<br />
+            Agregar Producto<br />
             <br />
-            Nombre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Nombre Del Producto&nbsp;&nbsp;&nbsp;
             <asp:TextBox ID="TxtNombre" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
             <br />
             <br />
